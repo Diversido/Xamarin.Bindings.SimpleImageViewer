@@ -1,0 +1,1 @@
+nuget push _builds/nugets/Xamarin.Bindings.SimpleImageViewer.nupkg -src https://api.nuget.org/v3/index.json
